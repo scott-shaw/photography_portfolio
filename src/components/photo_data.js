@@ -20,6 +20,8 @@ import travel4 from "../assets/photos/travel/DSCF7093.JPG";
 import travel5 from "../assets/photos/travel/DSCF7151.JPG";
 import travel6 from "../assets/photos/travel/DSCF6609.JPG";
 import travel7 from "../assets/photos/travel/DSCF6611.JPG";
+import travel8 from "../assets/photos/travel/DSCF5690.jpg";
+
 
 export const photos = [
   {
@@ -56,6 +58,11 @@ export const photos = [
     src: travel7,
     width: 4,
     height: 3
+  },
+  {
+    src: travel8,
+    width: 1,
+    height: 1
   },
   
 
