@@ -12,6 +12,8 @@ import street8 from "../assets/photos/street/DSCF3543.jpg";
 import street9 from "../assets/photos/street/DSCF3960.jpg";
 import street10 from "../assets/photos/street/DSCF4051.jpg";
 import street11 from "../assets/photos/street/DSCF3058.jpg";
+import street12 from "../assets/photos/street/DSCF3514.jpg";
+import street13 from "../assets/photos/street/DSCF3972.jpg";
 
 import travel1 from "../assets/photos/travel/DSCF0822.JPG";
 import travel2 from "../assets/photos/travel/DSCF6899.JPG";
@@ -21,7 +23,10 @@ import travel5 from "../assets/photos/travel/DSCF7151.JPG";
 import travel6 from "../assets/photos/travel/DSCF6609.JPG";
 import travel7 from "../assets/photos/travel/DSCF6611.JPG";
 import travel8 from "../assets/photos/travel/DSCF5690.jpg";
-
+import travel9 from "../assets/photos/travel/DSCF6819.jpg";
+import travel10 from "../assets/photos/travel/DSCF6835.jpg";
+import travel11 from "../assets/photos/travel/DSCF6848.jpg";
+import travel12 from "../assets/photos/travel/DSCF6996.jpg";
 
 export const photos = [
   {
@@ -63,6 +68,26 @@ export const photos = [
     src: travel8,
     width: 1,
     height: 1
+  },
+  {
+    src: travel9,
+    width: 4,
+    height: 3
+  },
+  {
+    src: travel10,
+    width: 4,
+    height: 3
+  },
+  {
+    src: travel11,
+    width: 1,
+    height: 1
+  },
+  {
+    src: travel12,
+    width: 4,
+    height: 3
   },
   
 
@@ -117,9 +142,19 @@ export const photos = [
     height: 3
   },
   {
+    src: street12,
+    width: 4,
+    height: 3
+  },
+  {
     src: street1,
     width: 4,
     height: 3
+  },
+  {
+    src: street13,
+    width: 3,
+    height: 2
   },
 
 

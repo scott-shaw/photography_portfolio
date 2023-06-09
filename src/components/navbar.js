@@ -13,7 +13,7 @@ import "../style/navbar.css";
 function Navbar() {
     return (
       <nav class="navbar navbar-expand-md navbar-dark bg-black">
-        <div class="navbar-collapse collapse">
+        <div>
             <ul class="navbar-nav mr-auto">
               <li class="nav-item">
 	            <Link class="nav-item nav-link title" to={"/"}>Scott Shaw Photography</Link>
