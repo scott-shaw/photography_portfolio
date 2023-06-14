@@ -1,7 +1,7 @@
 import React, {useCallback} from "react";
 import 'bootstrap/dist/css/bootstrap.css';
 import Gallery from "react-photo-gallery";
-import { photos } from "./photo_data";
+import { photos } from "../photo_data";
 import "../style/photos.css";
 import Carousel, { Modal, ModalGateway } from "react-images";
 
