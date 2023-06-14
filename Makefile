@@ -8,4 +8,5 @@ build:
 	npm run build
 deploy: build
 	netlify deploy --prod
-
+clean:
+	rm src/photo_data.js
