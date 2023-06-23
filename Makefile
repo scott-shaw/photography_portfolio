@@ -1,12 +1,13 @@
 PROG_NAME=photo_port
 
-start:
+gen:
 	python3 src/gen_data.py
+start: gen
 	npm start
-build:
-	python3 src/gen_data.py
+build: gen
 	npm run build
 deploy: build
 	netlify deploy --prod
 clean:
 	rm src/photo_data.js
+

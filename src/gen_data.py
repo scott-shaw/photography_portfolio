@@ -3,14 +3,14 @@ import cv2
 
 data_path = os.path.dirname(os.path.abspath(__file__))+"/photo_data.js"
 
-
 imgs = []
 path_list = []
 travel_path = os.path.dirname(os.path.abspath(__file__))+"/assets/photos/travel/"
 street_path = os.path.dirname(os.path.abspath(__file__))+"/assets/photos/street/"
 macro_path = os.path.dirname(os.path.abspath(__file__))+"/assets/photos/macro/"
+wildlife_path = os.path.dirname(os.path.abspath(__file__))+"/assets/photos/wildlife/"
 
-paths = [travel_path, street_path, macro_path]
+paths = [travel_path, street_path, wildlife_path, macro_path]
 valid_images = [".jpg",".JPG"]
 
 for path in paths:
