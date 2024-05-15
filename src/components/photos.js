@@ -1,7 +1,7 @@
 import React, {useCallback} from "react";
 import 'bootstrap/dist/css/bootstrap.css';
 import Gallery from "react-photo-gallery";
-import { photos } from "../photo_data";
+import { photos, thumbs } from "../photo_data";
 import "../style/photos.css";
 import Carousel, { Modal, ModalGateway } from "react-images";
 
@@ -30,7 +30,7 @@ class Photos extends React.Component {
     return (
       <body>
         <div>
-          <Gallery photos={photos} direction={"column"} onClick={this.openLightbox} />
+          <Gallery photos={thumbs} direction={"column"} onClick={this.openLightbox} />
           <ModalGateway>
             {this.state.viewerIsOpen ? (
               <Modal onClose={this.closeLightbox}>
