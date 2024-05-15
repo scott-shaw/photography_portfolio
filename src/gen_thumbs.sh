@@ -2,7 +2,7 @@
 
 script_dir=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 base_path=./assets/photos/
-dirs=("street/" "wildlife/" "macro/" "travel/")
+dirs=("street/" "wildlife/" "macro/" "travel/" "featured/")
 thumbs_name=thumbnails/
 
 for dir in "${dirs[@]}"; do

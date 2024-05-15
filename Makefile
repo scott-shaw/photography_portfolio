@@ -15,3 +15,4 @@ clean:
 	rm -r src/assets/photos/street/thumbnails/
 	rm -r src/assets/photos/travel/thumbnails/
 	rm -r src/assets/photos/wildlife/thumbnails/
+	rm -r src/assets/photos/featured/thumbnails/
