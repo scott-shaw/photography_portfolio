@@ -19,8 +19,8 @@ macro_path_thumb = macro_path+"thumbnails/"
 wildlife_path_thumb = wildlife_path+"thumbnails/"
 featured_path_thumb = featured_path+"thumbnails/"
 
-paths = [travel_path, street_path, wildlife_path, macro_path, featured_path]
-paths_thumb = [travel_path_thumb, street_path_thumb, wildlife_path_thumb, macro_path_thumb, featured_path_thumb]
+paths = [featured_path, travel_path, street_path, wildlife_path, macro_path]
+paths_thumb = [featured_path_thumb, travel_path_thumb, street_path_thumb, wildlife_path_thumb, macro_path_thumb]
 valid_images = [".jpg",".JPG"]
 
 for path, thumb in zip(paths, paths_thumb):
