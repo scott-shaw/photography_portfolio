@@ -85,46 +85,45 @@ import photo20_thumb from "/home/scott/photography_portfolio/src/assets/photos/s
 import photo21_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3961.JPG";
 import photo22_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3056.jpg";
 import photo23_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1877.jpg";
-import photo24_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF5973.JPG";
-import photo25_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1400.JPG";
-import photo26_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF2149.JPG";
-import photo27_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF4051.jpg";
-import photo28_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF7467.jpg";
-import photo29_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF4199.jpg";
-import photo30_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1677.jpg";
-import photo31_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1117.JPG";
-import photo32_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3543.jpg";
-import photo33_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF7036.jpg";
-import photo34_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF8334.jpg";
-import photo35_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF4182.jpg";
-import photo36_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1152.jpg";
-import photo37_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3972.jpg";
-import photo38_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF5378.JPG";
-import photo39_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF4416.jpg";
-import photo40_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1965.jpg";
-import photo41_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF2222.jpg";
-import photo42_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF2032.jpg";
-import photo43_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3051.jpg";
-import photo44_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF7636.jpg";
-import photo45_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF7521.jpg";
-import photo46_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3514.jpg";
-import photo47_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF5921.JPG";
-import photo48_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF7389.jpg";
-import photo49_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF2223.jpg";
-import photo50_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF2272.jpg";
-import photo51_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF7385.jpg";
-import photo52_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF7487.jpg";
-import photo53_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF4747.jpg";
-import photo54_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF2163.jpg";
-import photo55_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF5938.JPG";
-import photo56_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF4152.jpg";
-import photo57_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF2158.JPG";
-import photo58_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF7780.jpg";
-import photo59_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF4127.JPG";
-import photo60_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF5896.JPG";
-import photo61_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF2167.JPG";
-import photo62_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF5909.JPG";
-import photo63_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF4660.jpg";
+import photo24_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1400.JPG";
+import photo25_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF2149.JPG";
+import photo26_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF4051.jpg";
+import photo27_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF7467.jpg";
+import photo28_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF4199.jpg";
+import photo29_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1677.jpg";
+import photo30_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1117.JPG";
+import photo31_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3543.jpg";
+import photo32_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF7036.jpg";
+import photo33_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF8334.jpg";
+import photo34_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF4182.jpg";
+import photo35_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1152.jpg";
+import photo36_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3972.jpg";
+import photo37_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF5378.JPG";
+import photo38_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF4416.jpg";
+import photo39_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF1965.jpg";
+import photo40_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF2222.jpg";
+import photo41_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF2032.jpg";
+import photo42_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3051.jpg";
+import photo43_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF7636.jpg";
+import photo44_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF7521.jpg";
+import photo45_thumb from "/home/scott/photography_portfolio/src/assets/photos/street/thumbnails/DSCF3514.jpg";
+import photo46_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF5921.JPG";
+import photo47_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF7389.jpg";
+import photo48_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF2223.jpg";
+import photo49_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF2272.jpg";
+import photo50_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF7385.jpg";
+import photo51_thumb from "/home/scott/photography_portfolio/src/assets/photos/wildlife/thumbnails/DSCF7487.jpg";
+import photo52_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF4747.jpg";
+import photo53_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF2163.jpg";
+import photo54_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF5938.JPG";
+import photo55_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF4152.jpg";
+import photo56_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF2158.JPG";
+import photo57_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF7780.jpg";
+import photo58_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF4127.JPG";
+import photo59_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF5896.JPG";
+import photo60_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF2167.JPG";
+import photo61_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF5909.JPG";
+import photo62_thumb from "/home/scott/photography_portfolio/src/assets/photos/macro/thumbnails/DSCF4660.jpg";
 export const photos = [
 {
 src: photo0,
@@ -565,102 +564,102 @@ height: 2080
 },
 {
 src: photo24_thumb,
-width: 2080,
-height: 3120
-},
-{
-src: photo25_thumb,
 width: 3120,
 height: 2080
 },
 {
-src: photo26_thumb,
+src: photo25_thumb,
 width: 2080,
 height: 3120
 },
 {
-src: photo27_thumb,
+src: photo26_thumb,
 width: 1563,
 height: 1043
 },
 {
-src: photo28_thumb,
+src: photo27_thumb,
 width: 1023,
 height: 1023
 },
 {
-src: photo29_thumb,
+src: photo28_thumb,
 width: 1833,
 height: 1421
 },
 {
-src: photo30_thumb,
+src: photo29_thumb,
 width: 780,
 height: 520
 },
 {
-src: photo31_thumb,
+src: photo30_thumb,
 width: 3120,
 height: 2080
 },
 {
-src: photo32_thumb,
+src: photo31_thumb,
 width: 1560,
 height: 1040
 },
 {
-src: photo33_thumb,
+src: photo32_thumb,
 width: 3126,
 height: 2085
 },
 {
-src: photo34_thumb,
+src: photo33_thumb,
 width: 1861,
 height: 1860
 },
 {
-src: photo35_thumb,
+src: photo34_thumb,
 width: 1124,
 height: 721
 },
 {
-src: photo36_thumb,
+src: photo35_thumb,
 width: 1505,
 height: 987
 },
 {
-src: photo37_thumb,
+src: photo36_thumb,
 width: 1563,
 height: 1043
 },
 {
-src: photo38_thumb,
+src: photo37_thumb,
 width: 3120,
 height: 2080
 },
 {
-src: photo39_thumb,
+src: photo38_thumb,
 width: 780,
 height: 520
 },
 {
-src: photo40_thumb,
+src: photo39_thumb,
 width: 1560,
 height: 1040
 },
 {
-src: photo41_thumb,
+src: photo40_thumb,
 width: 1963,
 height: 2645
 },
 {
-src: photo42_thumb,
+src: photo41_thumb,
 width: 3120,
 height: 2080
 },
 {
-src: photo43_thumb,
+src: photo42_thumb,
 width: 2085,
+height: 2085
+},
+{
+src: photo43_thumb,
+width: 3126,
 height: 2085
 },
 {
@@ -670,96 +669,91 @@ height: 2085
 },
 {
 src: photo45_thumb,
-width: 3126,
-height: 2085
-},
-{
-src: photo46_thumb,
 width: 1560,
 height: 1040
 },
 {
-src: photo47_thumb,
+src: photo46_thumb,
 width: 3120,
 height: 2080
 },
 {
-src: photo48_thumb,
+src: photo47_thumb,
 width: 1563,
 height: 1043
 },
 {
-src: photo49_thumb,
+src: photo48_thumb,
 width: 2404,
 height: 1476
 },
 {
-src: photo50_thumb,
+src: photo49_thumb,
 width: 2371,
 height: 1383
 },
 {
-src: photo51_thumb,
+src: photo50_thumb,
 width: 1154,
 height: 770
 },
 {
-src: photo52_thumb,
+src: photo51_thumb,
 width: 780,
 height: 520
 },
 {
-src: photo53_thumb,
+src: photo52_thumb,
 width: 1970,
 height: 1314
 },
 {
-src: photo54_thumb,
+src: photo53_thumb,
 width: 520,
 height: 780
 },
 {
-src: photo55_thumb,
+src: photo54_thumb,
 width: 3120,
 height: 2080
 },
 {
-src: photo56_thumb,
+src: photo55_thumb,
 width: 2560,
 height: 2080
 },
 {
-src: photo57_thumb,
+src: photo56_thumb,
 width: 3120,
 height: 2080
 },
 {
-src: photo58_thumb,
+src: photo57_thumb,
 width: 1007,
 height: 1007
 },
 {
-src: photo59_thumb,
+src: photo58_thumb,
 width: 2080,
 height: 3120
+},
+{
+src: photo59_thumb,
+width: 3120,
+height: 2080
 },
 {
 src: photo60_thumb,
-width: 3120,
-height: 2080
-},
-{
-src: photo61_thumb,
 width: 2080,
 height: 3120
 },
 {
-src: photo62_thumb,
+src: photo61_thumb,
 width: 3120,
 height: 2080
 },
 {
-src: photo63_thumb,
+src: photo62_thumb,
 width: 2653,
 height: 1769
 },
