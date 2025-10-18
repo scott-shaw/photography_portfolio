@@ -280,8 +280,8 @@ height: 2167
 },
 {
 src: photo19,
-width: 6240,
-height: 4160
+width: 4160,
+height: 6240
 },
 {
 src: photo20,
@@ -405,8 +405,8 @@ height: 2080
 },
 {
 src: photo44,
-width: 6240,
-height: 4160
+width: 4160,
+height: 6240
 },
 {
 src: photo45,
@@ -415,8 +415,8 @@ height: 5302
 },
 {
 src: photo46,
-width: 6240,
-height: 4160
+width: 4160,
+height: 6240
 },
 {
 src: photo47,
@@ -435,8 +435,8 @@ height: 4160
 },
 {
 src: photo50,
-width: 6240,
-height: 4160
+width: 4160,
+height: 6240
 },
 {
 src: photo51,
@@ -620,8 +620,8 @@ height: 2014
 },
 {
 src: photo87,
-width: 6240,
-height: 4160
+width: 4160,
+height: 6240
 },
 {
 src: photo88,
@@ -742,8 +742,8 @@ height: 1084
 },
 {
 src: photo19_thumb,
-width: 3120,
-height: 2080
+width: 2080,
+height: 3120
 },
 {
 src: photo20_thumb,
@@ -867,8 +867,8 @@ height: 1040
 },
 {
 src: photo44_thumb,
-width: 3120,
-height: 2080
+width: 2080,
+height: 3120
 },
 {
 src: photo45_thumb,
@@ -877,8 +877,8 @@ height: 2651
 },
 {
 src: photo46_thumb,
-width: 3120,
-height: 2080
+width: 2080,
+height: 3120
 },
 {
 src: photo47_thumb,
@@ -897,8 +897,8 @@ height: 2080
 },
 {
 src: photo50_thumb,
-width: 3120,
-height: 2080
+width: 2080,
+height: 3120
 },
 {
 src: photo51_thumb,
@@ -1082,8 +1082,8 @@ height: 1007
 },
 {
 src: photo87_thumb,
-width: 3120,
-height: 2080
+width: 2080,
+height: 3120
 },
 {
 src: photo88_thumb,
